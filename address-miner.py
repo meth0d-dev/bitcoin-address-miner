@@ -1,5 +1,5 @@
 from bitcoin import *
-import requests, winsound
+import requests, random, string, winsound
 
 print('     _       _     _                     __  __ _                 ')
 print('    / \   __| | __| |_ __ ___  ___ ___  |  \/  (_)_ __   ___ _ __ ')
